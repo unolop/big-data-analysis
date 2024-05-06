@@ -1,3 +1,5 @@
+## Big Data Analysis Project 
+Goal: Sleep stage classification using PPG Signals 
 
 Run `main.py` to train and validate on 5 folds MESA 100 participants. 
 - PPG Data is normalized to min max scale and resampled at 25 Hz. 
